@@ -22,9 +22,13 @@ Review the following scenario;
   company might experience due to the current state of their security posture." 
 
 -------------------------------------------------------------------------------------------------------------------
+
   what is the audit meant to archive?
+  
   which assets are most at risk?
+  
   Are current controls sufficient to protect those asset?
+  
   What controls and compliance regulations need to be implemented?
 
 --------------------------------------------------------------------------------------------------------------------
@@ -93,20 +97,24 @@ RISK ASSESSMENT
 _______________
 
 RISK DESCRIPTION
+
 Currently, there is inadequate management of assets. Additionally, Botium Toys does not have all of the proper 
 controls in place and may not be fully compliant with U.S. and international regulations and standards.
 
 CONTROL BEST PRACTICES
+
 The first of the five functions of the NIST CSF is identify. Botium Toys will need to dedicate resources to identify 
 assets so they can appropriately manage them. 
 Additionally, they wil need to classify existing assets and determine the impact of the loss of existing assets,
 including systems, on business continuity.
 
 RISK SCORE
+
 On a scale of 1 to 10, the risk score is 8, which is fairly high. This is due to a lack of controls and adherence to
 compliance best practices.
 
 ADDITIONAL COMMENTS
+
 The potential impact from the loss of an asset is rated as medium, because the IT department does not know which
 asset would be at risk. The risk to assets or fines from governing bodies is high because Botium Toys does not have
 all of the necessary controls in place and is not fully adhering to best practices related to compliance regulations
